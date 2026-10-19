@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#fff"/>
+  <text x="600" y="60" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#111827">AI 연결 방식의 변화</text>
+  <text x="150" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#334155">복사</text>
+  <text x="420" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#334155">검색</text>
+  <text x="690" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#334155">함수·플러그인</text>
+  <text x="980" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#334155">MCP</text>
+  <path d="M100 400L200 360L370 310L560 260L760 210L1070 160" fill="none" stroke="#2563eb" stroke-width="7"/>
+  <circle cx="150" cy="380" r="34" fill="#bfdbfe"/><circle cx="420" cy="300" r="34" fill="#93c5fd"/><circle cx="690" cy="240" r="34" fill="#60a5fa"/><circle cx="980" cy="175" r="34" fill="#2563eb"/>
+  <text x="150" y="465" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#475569">자료를 직접 넣음</text>
+  <text x="420" y="465" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#475569">정해진 자료를 찾음</text>
+  <text x="690" y="465" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#475569">정해진 기능을 호출</text>
+  <text x="980" y="465" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#475569">공통 규격으로 발견·연결</text>
+  <text x="600" y="555" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#1e3a8a">편리함이 커질수록 권한·승인·기록 설계도 함께 필요하다</text>
+</svg>

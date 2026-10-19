@@ -1,5 +1,7 @@
 # 01. MCP란 무엇인가
 
+![Host·Client·Server·Tool의 MCP 연결 구조](../assets/mcp-four-parts.svg)
+
 ## 먼저 비유로 이해하기
 
 AI를 직원이라고 생각해 봅시다. 모델은 글을 읽고 판단하는 능력이 있지만, 회사 드라이브·캘린더·주문 시스템에 들어갈 열쇠는 기본으로 가지고 있지 않습니다. MCP는 직원과 사내 시스템 사이에 놓이는 **공통 출입구와 사용 규칙**입니다.
@@ -58,4 +60,3 @@ MCP는 “AI에게 권한을 주는 마법”이 아니라 **권한을 설계하
 
 - [MCP 공식 개요](https://modelcontextprotocol.io/)
 - [MCP 서버 구성요소](https://modelcontextprotocol.io/specification/draft/server/index)
-

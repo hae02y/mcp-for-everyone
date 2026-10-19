@@ -1,5 +1,7 @@
 # 02. AI 연결 방식의 변화
 
+![복사에서 MCP로 이어지는 AI 연결 방식의 변화](../assets/mcp-evolution.svg)
+
 AI가 외부 시스템을 사용하는 방법은 한 번에 MCP로 바뀐 것이 아닙니다. 이전 방식의 장점과 한계를 알아야 MCP가 필요한 상황을 판단할 수 있습니다.
 
 ## 네 단계의 변화
@@ -52,4 +54,3 @@ MCP는 세 가지를 모두 표현할 수 있지만, 표현할 수 있다는 말
 
 - [2026-07-28 MCP 사양 변경](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
 - [MCP 공식 블로그](https://blog.modelcontextprotocol.io/)
-
