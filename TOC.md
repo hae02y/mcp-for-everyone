@@ -1,23 +1,22 @@
 # 목차
 
-00. 이 책을 읽기 전에
-01. MCP란 무엇인가
-02. AI 연결 방식의 변화
-03. MCP의 네 가지 구성요소
-04. Tools·Resources·Prompts 이해하기
-05. 첫 번째 MCP 서버 연결하기
-06. 실제 사용자가 MCP를 쓰는 하루
-07. 읽기와 실행 권한 나누기
-08. 인증·비밀키·사용자 동의
-09. 로컬 MCP와 원격 MCP
-10. 프롬프트 주입과 악성 도구 방어
-11. MCP 서버를 고르고 검증하는 방법
-12. 실패·재시도·중단·복구
-13. 로그·관측성·비용 관리
-14. 장시간 작업과 Tasks
-15. MCP와 Jev를 함께 쓰는 방법
-16. MCP와 A2A: 도구 연결과 에이전트 협업
-17. 조직에 MCP를 도입하는 순서
-18. 실전 프로젝트 워크북
-19. MCP 용어와 참고표
-
+* [00. 이 책을 읽기 전에](pages/00-preface.md)
+* [01. MCP란 무엇인가](pages/01-what-is-mcp.md)
+* [02. AI 연결 방식의 변화](pages/02-ai-connection-history.md)
+* [03. MCP의 네 가지 구성요소](pages/03-four-components.md)
+* [04. Tools·Resources·Prompts 이해하기](pages/04-tools-resources-prompts.md)
+* [05. 첫 번째 MCP 서버 연결하기](pages/05-first-connection.md)
+* [06. 실제 사용자가 MCP를 쓰는 하루](pages/06-user-day.md)
+* [07. 읽기와 실행 권한 나누기](pages/07-permissions.md)
+* [08. 인증·비밀키·사용자 동의](pages/08-authentication.md)
+* [09. 로컬 MCP와 원격 MCP](pages/09-local-remote.md)
+* [10. 프롬프트 주입과 악성 도구 방어](pages/10-injection-defense.md)
+* [11. MCP 서버를 고르고 검증하는 방법](pages/11-server-verification.md)
+* [12. 실패·재시도·중단·복구](pages/12-failure-recovery.md)
+* [13. 로그·관측성·비용 관리](pages/13-observability-cost.md)
+* [14. 장시간 작업과 Tasks](pages/14-long-running-tasks.md)
+* [15. MCP와 Jev를 함께 쓰는 방법](pages/15-mcp-and-jev.md)
+* [16. MCP와 A2A: 도구 연결과 에이전트 협업](pages/16-mcp-and-a2a.md)
+* [17. 조직에 MCP를 도입하는 순서](pages/17-organization-adoption.md)
+* [18. 실전 프로젝트 워크북](pages/18-practical-workbook.md)
+* [19. MCP 용어와 참고표](pages/19-glossary.md)
