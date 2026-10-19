@@ -27,11 +27,11 @@ MCP(Model Context Protocol)를 처음 접하는 사람을 위한 비개발자용
 ## 저장소
 
 - GitHub: https://github.com/hae02y/mcp-for-everyone
-- 위키독스: 원고 확장 후 공개 발행 예정
+- 위키독스: https://wikidocs.net/book/21745 (공개 발행)
 
 ## 현재 집필 현황
 
 - 00~19장 목차와 초안 작성 완료
 - 각 장의 개념을 설명하는 고유 SVG 도식 추가
 - 실제 연결·권한·보안·장애·운영·워크북 포함
-- 다음 단계: 원고 교정 후 위키독스 GitHub 연동 발행
+- GitHub push 시 위키독스 자동 동기화
